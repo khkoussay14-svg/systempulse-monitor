@@ -1,7 +1,5 @@
 # SystemPulse
 
-<p align="right"><img src="https://raw.githubusercontent.com/khkoussay14-svg/jobtrack-spring-boot/main/assets/kousay-khdimi-profile.jpg" alt="Kousay Khdimi" width="150"></p>
-
 SystemPulse is a lightweight system and network monitoring dashboard built with FastAPI. It exposes a small REST API and a browser dashboard for checking CPU, memory, disk and basic network information.
 
 ## Features
