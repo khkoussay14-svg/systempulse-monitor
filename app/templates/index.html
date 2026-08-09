@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>SystemPulse</title>
+  <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+  <main class="container">
+    <header>
+      <p class="eyebrow">SYSTEM MONITOR</p>
+      <h1>SystemPulse</h1>
+      <p>Live overview of local system and network information.</p>
+    </header>
+
+    <section class="grid" id="metrics">
+      <article class="card"><span>CPU</span><strong id="cpu">--</strong></article>
+      <article class="card"><span>Memory</span><strong id="memory">--</strong></article>
+      <article class="card"><span>Disk</span><strong id="disk">--</strong></article>
+      <article class="card"><span>Host</span><strong id="host">--</strong></article>
+    </section>
+
+    <section class="panel">
+      <h2>Network interfaces</h2>
+      <div id="network">Loading...</div>
+    </section>
+  </main>
+  <script src="/static/app.js"></script>
+</body>
+</html>
