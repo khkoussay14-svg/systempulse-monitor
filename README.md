@@ -64,3 +64,9 @@ docker run --rm -p 8000:8000 systempulse
 ## Why this project
 
 SystemPulse was created as a portfolio project to practice Python backend development, REST APIs, system/network concepts and containerization while keeping the codebase small enough to understand and explain clearly.
+
+## About the developer
+
+**Kousay Khdimi** - B.Sc. Computer Science student at TU Dortmund University (4th semester), currently looking for a **Werkstudent position in software development** in Germany.
+
+Focus: backend development, Python, REST APIs, systems and networks, Docker and cloud fundamentals.
